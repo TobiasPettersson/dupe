@@ -1,0 +1,2 @@
+# dupe
+Duplicate File Scanner
